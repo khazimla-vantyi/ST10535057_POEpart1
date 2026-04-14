@@ -4,6 +4,7 @@
 - Name: Khazimla Vantyi
 - Student number: ST10535057
 - Module: PROG5121
+- Lecturer: Andiswa Phewa
 
   ---
   
